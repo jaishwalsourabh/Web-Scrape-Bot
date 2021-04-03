@@ -1,2 +1,3 @@
 # Web-Scrape-Bot
-A web scrape bot using python
+----------------
+A Web-Scrapping-Bot that scrapes Finance Website Data and Automate Mailing Daily 🤖
